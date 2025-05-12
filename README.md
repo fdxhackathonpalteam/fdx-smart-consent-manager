@@ -27,10 +27,10 @@ The **FDX Smart Consent Manager** is a full-stack AI-powered solution that demon
 
 ## 🧠 Architecture Overview
 
-![FDX Smart Consent Manager Architecture](./docs/architecture.png)
+![image](https://github.com/user-attachments/assets/0be0bcf1-8fb4-49a0-ab06-1d9dbe9ba8b2)
 
-> `McpController` triggers the context building and OpenAI prompt execution pipeline. `ModelRunner` acts as the LLM interface component.
 
+> 
 ---
 
 ## 📁 Project Structure
