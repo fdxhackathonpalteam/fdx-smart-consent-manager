@@ -115,9 +115,13 @@ curl -X POST http://localhost:8080/api/mcp/ask   -H "Content-Type: application/j
 
 ## 🤝 Contributors
 
-- [Suman Devarasetti](https://github.com/sumandevarasetti) — Backend, MCP Architecture
-- Kavya Masna — Frontend, Testing & Deployment
-- FDX Hackathon PAL Team 2025 💼
+- Suman Devarasetti
+- NarasimhaMurthy Kapa
+- Arvind Badri
+- Mahesh Kotachery
+- Vidya Parameswaran
+- Venkata Kanumuri
+- Parthiban Sivakumar
 
 ---
 
