@@ -4,7 +4,7 @@ server:
 spring:
   ai:
     openai:
-      api-key: BCDWBL83ujkj4wj23bYqAFgSqf3YhrREHrqvGi9dF1z5Tas86QnyJQQJ99BEACYeBjFXJ3w3AAABACOGFUfV
+      api-key: YOUR-API-KEY
       endpoint: https://fdxopenai.openai.azure.com/
       deployment: gpt-4o
       deployment-id: gpt-4o
