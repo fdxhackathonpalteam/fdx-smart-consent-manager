@@ -16,7 +16,7 @@ public class AgentService {
 
     public AgentService() {
         this.client = new OpenAIClientBuilder()
-                .credential(new AzureKeyCredential("BCDWBL83ujkj4wj23bYqAFgSqf3YhrREHrqvGi9dF1z5Tas86QnyJQQJ99BEACYeBjFXJ3w3AAABACOGFUfV"))
+                .credential(new AzureKeyCredential("YOUR-API-KEY"))
                 .endpoint("https://fdxopenai.openai.azure.com/")
                 .buildClient();
     }
